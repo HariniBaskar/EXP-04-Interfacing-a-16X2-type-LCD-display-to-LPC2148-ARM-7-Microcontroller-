@@ -189,7 +189,7 @@ int main(void)
 	LCD_INIT();
 	LCD_STRING("welcome to AI&DS");
 	LCD_CMD(0xC0);
-	LCD_STRING("212221230106");
+	LCD_STRING("212221230035");
 
 	return 0;
 }
@@ -208,10 +208,3 @@ int main(void)
 
 ## Result :
 Interfaced an LCD with ARM microcontroller is executed and displayed the strings  
-
- 
-
-
-
-
-
